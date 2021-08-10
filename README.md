@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi, I'm Ian! I am a full stack machine learning engineer experienced in Computer Vision. Passionate about all things AI and Data Science.
 
-<!--
-**ianormy/ianormy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📕 Latest Blog Posts
 
-Here are some ideas to get you started:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+<p align="center">
+	<a href="https://github.com/ianormy"><img src="https://img.shields.io/github/followers/ianormy.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/ianormy/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ianormy)](https://github.com/ryo-ma/github-profile-trophy)

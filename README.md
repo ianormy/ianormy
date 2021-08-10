@@ -3,6 +3,11 @@ Hi, I'm Ian! I am a full stack machine learning engineer experienced in Computer
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using an ActiveX Control in F#](https://towardsdatascience.com/using-an-activex-control-in-f-722e4d6614a1?source=rss-e47df72a1e13------2)
+- [vcpkg: C++ Package Manager for Machine Learning](https://towardsdatascience.com/vcpkg-c-package-manager-for-machine-learning-16c3b18c1ef2?source=rss-e47df72a1e13------2)
+- [Detectron2 & Python Wheels Cache](https://towardsdatascience.com/detectron2-python-wheels-cache-bfb94a0267ef?source=rss-e47df72a1e13------2)
+- [F# Azure Functions](https://towardsdatascience.com/f-azure-functions-a5cce33dce58?source=rss-e47df72a1e13------2)
+- [Augmented Reality using Fiducial Markers](https://towardsdatascience.com/augmented-reality-using-fiducial-markers-b8124b8f528?source=rss-e47df72a1e13------2)
 <!-- BLOG-POST-LIST:END -->
 
 

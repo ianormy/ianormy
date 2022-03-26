@@ -1,4 +1,4 @@
-Hi, I'm Ian! I am a full stack machine learning engineer experienced in Computer Vision. Passionate about all things AI and Data Science.
+Hi, I'm Ian! I am a Data Scientist experienced in machine learning and Computer Vision. Passionate about all things AI and Data Science.
 
 ## 📕 Latest Blog Posts
 
